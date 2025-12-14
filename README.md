@@ -109,5 +109,3 @@ mvn spring-boot:run -Dserver.port=9011
 ---
 
 **MOHAMMED EL KHAYATI & MOUAD MOUDID --5IIR11**
-
-Si tu veux, je peux aussi te préparer le **README du TP Zuul / API Gateway (TP suivant)** dans exactement le même format.
