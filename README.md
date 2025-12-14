@@ -1,4 +1,4 @@
-# TP 4.1 – Spring Cloud Eureka (Service Registry & Discovery)
+# TP4 – Spring Cloud Eureka (Service Registry & Discovery)
 
 ## Description
 
